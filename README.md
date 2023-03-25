@@ -1,8 +1,8 @@
 # UAI-Teledeteccion-Aplicada
-Curso electivo del programa de Master in Science of Data Science (MSDS), Universidad Adolfo Ibáñez, Chile
 
+**_Curso electivo del programa de Master in Science of Data Science (MSDS), Universidad Adolfo Ibáñez, Chile_**
 
-![Alt text]( "a title")
+![alt text](figuras/descripcionCurso.png)
 
 
 ## DESCRIPCIÓN DE LA ASIGNATURA
