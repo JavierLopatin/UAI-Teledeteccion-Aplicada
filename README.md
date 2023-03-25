@@ -3,8 +3,10 @@
 **_Curso electivo del programa de Master in Science of Data Science (MSDS), Universidad Adolfo Ibáñez, Chile_**
 
 | |
-||
-| <img src="figuras/UAI_EO_logo2_purple.png" alt="alt text" title="Image Title" width="100"/> |
+|-|
+| <img src="figuras/UAI_EO_logo2_purple.png" alt="alt text" title="Image Title" width="300"/> |
+
+
 
 ![alt text](figuras/descripcionCurso.png)
 
