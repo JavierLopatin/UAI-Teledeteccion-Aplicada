@@ -2,6 +2,10 @@
 
 **_Curso electivo del programa de Master in Science of Data Science (MSDS), Universidad Adolfo Ibáñez, Chile_**
 
+<div style="position: relative; min-height: 100px;">
+  <img src="figuras/UAI_EO_logo2_purple.png" alt="alt text" title="Image Title" style="position: absolute; top: 0; right: 0; max-width: 300px; width: auto; height: auto;">
+</div>
+
 ![alt text](figuras/descripcionCurso.png)
 
 
@@ -51,3 +55,39 @@ El curso constará de clases lectivas, lectura de artículos científicos, desar
 - Presentación grupal sobre tema en clases (10%)
 - Presentación grupal del trabajo final (10%)
 
+## UNIDADES
+
+- **Propiedades físicas de la intelección ambiental**\
+    Introducción a la teledetección ambiental\
+    Propiedades físicas de la luz y el espectro electromagnético\
+    Tipos de sensores remotos y tecnologías\
+    Calibraciones radiométricas, topográficas, y atmosféricas\
+    Índices vegetacionales y otros proxies de fitness\
+    Laboratorios aplicados
+
+- **Fotogrametría con Drones**\
+    Principios de la fotogrametría\
+    Normas vigentes en Chile\
+    Structure-from-Motion (SfM)\
+    Planificación de vuelos y procesamiento de imágenes\
+    Laboratorios aplicados
+
+- **Sensores activos: LiDAR y RADAR**\
+    Tecnologías LiDAR y RADAR\
+    Tipos de sensores\
+    Procesamiento de datos LiDAR y RADARLaboratorios aplicados
+
+- **Modelamiento predictivo**\
+    Introducción a modelos predictivos espaciales: clasificaciones y regresiones\
+    Autocorrelación espacial y temporal\
+    Obtención de datos de entrenamiento y validación \
+    Serie temporal de datos
+
+## HABILIDADES ABET
+Habilidad para desarrollar y conducir experimentos apropiados, analizar e interpretar datos, y obtener conclusiones basadas en juicios ingenieriles (6.1 y 6.3)
+
+## ODS
+Se abordará el ODS 15 (vida de ecosistemas terrestres), a nivel de Competencias, es decir, los estudiantes podrán poner en acción sus conocimientos para modificar la realidad en el contexto del ODS
+
+## REGLAMENTO
+El curso se regirá por el reglamento vigente para las asignaturas de quinto año y magíster de la Universidad y por el reglamento del Código de Honor, en cuanto a los aspectos de ética, honestidad, respeto a las personas y sus bienes, contribución y cuidado. Los documentos se encuentran disponibles en https://alumnosfic.uai.cl/quinto-ano/reglamentos/.
